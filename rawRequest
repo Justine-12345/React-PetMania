@@ -1,0 +1,64 @@
+******REGISTER USER******
+{
+    "name":"Justine",
+    "age":"20",
+    "gender":"male",
+    "address":"Taguig City",
+    "contact":"092222222",
+    "email":"justine@gmail.com",
+    "password":"123456"
+}
+
+
+******LOGIN USER******
+{
+    "email":"justine@gmail.com",
+    "password":"123456"
+}
+
+******UPDATE PASSWORD USER******
+{
+    "oldPassword":"password",
+    "password":"123456"
+}
+
+
+******NEW ANIMAL****** (no sick & no adopter)
+
+{
+    "name":"Popo",
+    "gender":"male",
+    "age":"3",
+    "breed":"askal",
+    "images":[
+        {
+            "public_id": "products/askal-philippines-MAIN_vxjaqb",
+            "url": "https://res.cloudinary.com/dpvofuwy8/image/upload/v1649050422/askal-philippines-MAIN_vxjaqb.jpg"
+        }
+    ],
+    "category":"Dog"
+}
+
+
+
+
+******NEW SICK******
+{
+    "name":"Anthrax",
+    "description":"Anhrax, a highly infectious and fatal disease of cattle, is caused by a relatively large spore-forming rectangular shaped bacterium called Bacillus anthracis."
+}
+
+
+//seperate react-router for Admin and User
+
+//adoption
+
+//Adopter of animals
+
+//Adopted of user
+
+//sidenav of admin animal show
+
+//password Update
+
+ //cant update email if google and facebook auth
