@@ -106,6 +106,9 @@ const Animal = ({animal}) => {
  		}
 
 
+
+
+
 	return(
 			<Fragment>
       <Fade bottom>

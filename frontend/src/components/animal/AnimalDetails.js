@@ -462,6 +462,30 @@ const AnimalDetails = () => {
                                         ))}
 
 
+
+
+
+
+
+
+
+                                         {/*{animal.comments.map(comment => (
+                                            <div key={comment._id} className="review-card my-3">
+                                                <p className="review_comment">{comment.content}</p>
+
+                                                <hr />
+                                            </div>
+                                         
+
+                                        ))}*/}
+
+
+
+
+
+
+
+
                                         </InfiniteScroll>
                                     </div>
                                 )}
