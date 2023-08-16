@@ -20,13 +20,6 @@ Qualified individuals can initiate the adoption process through the web applicat
 🌐 **MERN Stack:**
 Built using MongoDB, Express, React, and Node (MERN stack), PetMania combines modern web technologies to provide a seamless, responsive, and intuitive user experience.
 
-## How to Get Involved
-
-1. Visit the PetMania website to explore available animals for adoption.
-2. Learn more about each animal by checking their profiles, including their breed, gender, age, and health records.
-3. Initiate the adoption process by following the user-friendly steps provided.
-4. Give a loving home to a rescued animal in need.
-
 PetMania is more than just a web application; it's a testament to compassion and care for our furry friends. Join us in making a difference in the lives of these animals and providing them with a forever home.
 
 # Installation Guide
